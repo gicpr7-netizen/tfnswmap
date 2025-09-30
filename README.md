@@ -1,7 +1,13 @@
-Archived station guide, bus guide, and network map in New South Wales.
+# Home
 
-## How to insert map
+## Sydney Trains
 
-### HTML
-
-`<iframe src="https://gicpr7-netizen.github.io/tfnswmap/[map-folder]/[map-name.pdf]></iframe>`
+- [2013](sydney-trains/1310TMS-E-MWT.pdf)
+- [2014](sydney-trains/1411TMS-E-MWT-A4.pdf)
+- [2016](sydney-trains/1610TMS-E-MWT-A4P.pdf)
+- [2017](sydney-trains/1709TMS-E-MWT-A4P.pdf)
+- 2018 ([1st](sydney-trains/1807TMS-E-MWT-A4P.pdf)/[2nd](sydney-trains/1812TMS-E-MWT-A4P.pdf))
+- [2019](sydney-trains/1909TMS-E-MWT-A4P-WCAG.pdf)
+- [2021](sydney-trains/2105TMS-P-COR-A3P.pdf)
+- [2023](sydney-trains/545x760_Onboard_SRM_2023.pdf)
+- [2024](sydney-trains/APXP_SRM_20240701.pdf) ([Onboard](sydney-trains/360x500_Onboard_SRM_20240701.pdf)/[SRM](sydney-trains/1150x1750_SRM_20240701.pdf))

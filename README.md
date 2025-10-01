@@ -4,9 +4,9 @@ Archived official .PDF maps.
 
 ## Sydney Trains
 
-| Image | Shorten | Code | Year | .PDF |
+| Image | Code | Year | .PDF |
 | ------ | ---- | ------- | ---- | ---- |
-| <img src="sydney-trains/1310TMS-E-MWT.png&w=72"> | 1310TMS | 1310TMS-E-MWT | 2013 | [.PDF](sydney-trains/1310TMS-E-MWT.pdf) |
+| <img src="sydney-trains/1310TMS-E-MWT.png&w=72"> | 1310TMS-E-MWT | 2013 | [.PDF](sydney-trains/1310TMS-E-MWT.pdf) |
 
 - [2013](sydney-trains/1310TMS-E-MWT.pdf)
 - [2014](sydney-trains/1411TMS-E-MWT-A4.pdf)

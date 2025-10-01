@@ -6,9 +6,9 @@ Archived official .PDF maps.
 
 | Image | Code | Year | .PDF |
 | ------ | ------- | ---- | ---- |
-| <img src="sydney-trains/1610TMS-E-MWT-A4P.png" width="100px" height="141.4px"> | 1610TMS-E-MWT-A4P | 2016 | [.PDF](sydney-trains/1610TMS-E-MWT-A4P.pdf) |
-| <img src="sydney-trains/1411TMS-E-MWT-A4.png" width="100px" height="141.4px"> | 1411TMS-E-MWT-A4 | 2014 | [.PDF](sydney-trains/1411TMS-E-MWT-A4.pdf) |
-| <img src="sydney-trains/1310TMS-E-MWT.png" width="100px" height="141.4px"> | 1310TMS-E-MWT | 2013 | [.PDF](sydney-trains/1310TMS-E-MWT.pdf) |
+| <img src="sydney-trains/1610TMS-E-MWT-A4P.png" width="100px" height="141.4px"> | `1610TMS-E-MWT-A4P` | 2016 | [.PDF](sydney-trains/1610TMS-E-MWT-A4P.pdf) |
+| <img src="sydney-trains/1411TMS-E-MWT-A4.png" width="100px" height="141.4px"> | `1411TMS-E-MWT-A4` | 2014 | [.PDF](sydney-trains/1411TMS-E-MWT-A4.pdf) |
+| <img src="sydney-trains/1310TMS-E-MWT.png" width="100px" height="141.4px"> | `1310TMS-E-MWT` | 2013 | [.PDF](sydney-trains/1310TMS-E-MWT.pdf) |
 
 
 - [2013](sydney-trains/1310TMS-E-MWT.pdf)

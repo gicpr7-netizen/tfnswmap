@@ -7,4 +7,9 @@ Archived official .PDF maps.
 - [Sydney Trains](sydney-trains)
 - [Intercity Trains](intercity-trains)
 
-_I am VERY VERY VERY... lazzzy!_
+## Issues
+
+### Maps' Image don't load
+
+_Beacause you know, I am VERY VERY VERY... lazzzy!_
+I don't even put the image files in the storage ^_^

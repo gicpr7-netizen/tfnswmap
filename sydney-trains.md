@@ -1,8 +1,6 @@
 | Image | Code | Year | .PDF |
 | ------ | ------- | ---- | ---- |
-| <img src="sydney-trains/1150x1750_SRM_20240701.png" width="100px" height="141.4px"> | `1150x1750_SRM_20240701` | 2024 | [.PDF](sydney-trains/1150x1750_SRM_20240701.pdf) |
-| <img src="sydney-trains/360x500_Onboard_SRM_20240701.png" width="100px" height="141.4px"> | `360x500_Onboard_SRM_20240701` | 2024 | [.PDF](sydney-trains/360x500_Onboard_SRM_20240701.pdf) |
-| <img src="sydney-trains/APXP_SRM_20240701.png" width="100px" height="141.4px"> | `APXP_SRM_20240701` | 2024 | [.PDF](sydney-trains/APXP_SRM_20240701.pdf) |
+| <img src="sydney-trains/APXP_SRM_20240701.png" width="100px" height="141.4px"><br><img src="sydney-trains/360x500_Onboard_SRM_20240701.png" width="100px" height="141.4px"><br><img src="sydney-trains/1150x1750_SRM_20240701.png" width="100px" height="141.4px"> | `SRM_20240701` | 2024 | [.PDF (APXP)](sydney-trains/APXP_SRM_20240701.pdf)<br>[.PDF (360x500)](sydney-trains/360x500_Onboard_SRM_20240701.pdf)<br>[.PDF (1150x1750)](sydney-trains/1150x1750_SRM_20240701.pdf) |
 | <img src="sydney-trains/545x760_Onboard_SRM_2023.png" width="100px" height="141.4px"> | `545x760_Onboard_SRM_2023` | 2023 | [.PDF](sydney-trains/545x760_Onboard_SRM_2023.pdf) |
 | <img src="sydney-trains/2105TMS-P-COR-A3P.png" width="100px" height="141.4px"> | `2105TMS-P-COR-A3P` | 2021 | [.PDF](sydney-trains/2105TMS-P-COR-A3P.pdf) |
 | <img src="sydney-trains/1909TMS-E-MWT-A4P-WCAG.png" width="100px" height="141.4px"> | `1909TMS-E-MWT-A4P-WCAG` | 2019 | [.PDF](sydney-trains/1909TMS-E-MWT-A4P-WCAG.pdf) |
